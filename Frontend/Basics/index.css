@@ -1,0 +1,57 @@
+ * {
+   margin: 0;
+   padding: 0;
+
+ }
+
+ .header-styles {
+   background-color: green;
+   color: white;
+   padding: 20px;
+
+ }
+
+ .elements-container {
+   display: flex;
+   gap: 20px;
+   align-items: start;
+ }
+
+ .list-styles {
+   color: black;
+   display: flex;
+   gap: 20px;
+ }
+
+ .list-styles li {
+   margin-right: 10px;
+   background-color: antiquewhite;
+   padding: 10px;
+ }
+ a{
+  text-decoration: none;
+ }
+
+ /* .ol-styles {
+      background-color: antiquewhite;
+      color: black;
+      display: flex;
+      gap: 20px;
+    }
+
+    .ul-styles {
+      background-color: antiquewhite;
+      color: black;
+      display: flex;
+      gap: 20px;
+
+    } */
+
+.products-container, 
+.services-container{
+  background-color: burlywood;
+  color: black;
+  padding: 10px;
+
+}
+
